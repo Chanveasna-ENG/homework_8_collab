@@ -1,5 +1,5 @@
 def remove_all_after(numbers, n):
-    result_list = []
+    result_list=[]
     for number in numbers:
         if number == n:
             result_list.append(number)
